@@ -1,6 +1,6 @@
 
 ### YamlMime:Architecture
-metadata: ###
+metadata:
   title: <Article title, which becomes the title metadata>
   titleSuffix: Azure Architecture Center
   description: <Write a 100-160 character description that ends with a period and starts with a verb. This becomes the browse card description.>
