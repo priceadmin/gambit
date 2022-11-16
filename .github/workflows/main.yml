@@ -1,1 +1,22 @@
 
+### YamlMime:Architecture
+metadata:
+  title: <Article title, which becomes the title metadata>
+  titleSuffix: Azure Architecture Center
+  description: <Write a 100-160 character description that ends with a period and starts with a verb. This becomes the browse card description.>
+  author: <Your GitHub username>
+  ms.date: <Publish or major update date - mm/dd/yyyy>
+  ms.topic: conceptual
+  ms.service: architecture-center
+  ms.subservice: solution-idea
+azureCategories:
+  - <Include at least one category, such as ai-machine-learning, analytics, compute, containers, databases, devops, hybrid, identity, integration, iot, networking, security, storage, and web>
+  - <There can be more than one category>
+products:
+  - <Choose 1-5 products, such as azure-active-directory, azure-app-service, azure-arc, azure-cosmos-db, azure-data-factory, azure-data-lake, azure-devops, azure-event-hubs, azure-firewall, azure-functions, azure-hdinsight, azure-iot, azure-sql-database, azure-storage, and azure-virtual-machines. If your product is not included here, inquire with our AAC team.>
+  - <Second product. Include 1-5 products--no more than 5!>
+name: <The H1 title is a phrase with a present tense verb that describes the scenario (no gerunds, "-ing" verbs). Example: "Use Azure monitoring to integrate security components">
+summary: <Write a summary. Can be same as description.>
+thumbnailUrl: /azure/architecture/browse/thumbs/<browse-png-filename>.png
+content: |
+  [!include[](<solution-idea>-content.md)]
